@@ -48,30 +48,32 @@ A Python Script to Make Your Discord Account Online 24/7 in Cloud Server.
 - Go to [`Repl.it Home Page`](https://replit.com/~).
 - If you don't Have an Account, [`Sign-up`](https://replit.com/signup) First.
 - After Logged-in, Create New Repl. (Make sure to select Python Language).
-  ![Create New Repl Image](url)
+- ![Create New Repl Image](https://gifaldyazkaa.github.io/images/discord-online/MakeRepl.jpg)
 - You can name it as you want. Here, I named it `DiscordAccount247`.
 - Click `Create repl`.
-  ![First Look Image](img_url)
 - Your New Repl Should look like this if you successful.
+- ![First Look Image](https://gifaldyazkaa.github.io/images/discord-online/ShouldLike.png)
 - Delete Empty `main.py` inside your repl.
 - You can `Drag n Drop` all files inside `discord-online-24-7` to your repl. Do it.
 - If you already `Setup your .env File` and change the `TOKEN` Value, **Run your Repl**.
-  ![Result]()
 - If you successful, You'll see **Webview Tab Above Console Tab**.
+- ![Result](https://gifaldyazkaa.github.io/images/discord-online/Result.jpg)
 
 ### Uptime Robot Setup
 
 - Copy URL in Repl Webview : URL Bar.
-  ![Repl URL Bar](img_url)
+- ![Repl URL Bar](https://gifaldyazkaa.github.io/images/discord-online/CopyUrl.jpg)
 - Go to [`Uptime Robot`](https://uptimerobot.com)
 - `Register` if you don't have an account.
 - Create `New Monitor`
 - Select HTTP(s) for `Monitor Type`
-  ![HTTP(s)](img_url)
+- ![HTTP(s)](https://gifaldyazkaa.github.io/images/discord-online/UptimeHttp.jpg)
 - Name your Monitor Everything as you want.
 - Paste Copied URL from Repl Webview.
+- ![PasteUrl](https://gifaldyazkaa.github.io/images/discord-online/PasteUrl.jpg)
 - Click `Create Monitor`
 - You're Done! Just wait 5 Minutes and Refresh the Page. You'll See `Up` Status.
+- ![UptimeResult](https://gifaldyazkaa.github.io/images/discord-online/IfCreated.jpg)
 
 ## Last
 
