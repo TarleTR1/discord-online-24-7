@@ -49,12 +49,32 @@ A Python Script to Make Your Discord Account Online 24/7 in Cloud Server.
 - If you don't Have an Account, [`Sign-up`](https://replit.com/signup) First.
 - After Logged-in, Create New Repl. (Make sure to select Python Language).
   ![Create New Repl Image](url)
-- You can name it as you want. Here, I name it `DiscordAccount247`.
+- You can name it as you want. Here, I named it `DiscordAccount247`.
 - Click `Create repl`.
   ![First Look Image](img_url)
-- You should look like this if you successful.
+- Your New Repl Should look like this if you successful.
 - Delete Empty `main.py` inside your repl.
 - You can `Drag n Drop` all files inside `discord-online-24-7` to your repl. Do it.
 - If you already `Setup your .env File` and change the `TOKEN` Value, **Run your Repl**.
   ![Result]()
-- If you successful, You'll see Webview Tab Above Console Tab.
+- If you successful, You'll see **Webview Tab Above Console Tab**.
+
+### Make it 24/7
+
+- Copy URL in Repl Webview : URL Bar.
+  ![Repl URL Bar](img_url)
+- Go to [`Uptime Robot`](https://uptimerobot.com)
+- `Register` if you don't have an account.
+- Create `New Monitor`
+- Select HTTP(s) for `Monitor Type`
+  ![HTTP(s)](img_url)
+- Name your Monitor Everything as you want.
+- Paste Copied URL from Repl Webview.
+- Click `Create Monitor`
+- You're Done! Just wait 5 Minutes and Refresh the Page. You'll See `Up` Status.
+
+## Last
+
+- You Now can Close Replit and Uptime Robot.
+- **When you Close Discord**, **Your account will be Stay Online 24/7**. (Test it with Alt Account if you want to see).
+- There is Tutorial How To Make your Discord Account Online 24/7. Hoped it Work and Helpful!
