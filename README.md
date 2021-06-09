@@ -59,7 +59,7 @@ A Python Script to Make Your Discord Account Online 24/7 in Cloud Server.
   ![Result]()
 - If you successful, You'll see **Webview Tab Above Console Tab**.
 
-### Make it 24/7
+### Uptime Robot Setup
 
 - Copy URL in Repl Webview : URL Bar.
   ![Repl URL Bar](img_url)
